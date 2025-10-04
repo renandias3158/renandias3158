@@ -1,6 +1,6 @@
 ## Olá, meu nome é Renan Aprigio e seja bem vindo ao meu perfil!
 
-[![renandias3158](https://github-readme-stats.vercel.app/api?username=renandias3158&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![renandias3158](https://github-readme-stats.vercel.app/api?username=renandias3158&theme=default)](https://github.com/anuraghazra/github-readme-stats)
  <div>
    <a href="https://github.com/renandias3158">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renandias3158&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
