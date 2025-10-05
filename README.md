@@ -4,10 +4,11 @@
 [![renandias3158](https://github-readme-stats.vercel.app/api/top-langs/?username=renandias3158&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Atualmente estudando Desenvolvimento de Sistemas💻 
-- #### Entusiasta de Distros Linux
-- #### Degustador de Maquinas Automotivas
-- #### Aprendendo IA
-- #### Aprendendo DataScience na raça
+- #### Entusiasta de Distros Linux🖥
+- #### Degustador de Maquinas Automotivas🚗
+- #### Aprendendo IA🤖
+- #### Aprendendo DataScience na raça📊
+- #### Produzindo um RPG📚
 
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
