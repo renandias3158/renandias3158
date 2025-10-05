@@ -1,6 +1,6 @@
 # Olá, meu nome é Renan Aprigio e seja bem vindo ao meu perfil! 🤓
 ## Como diria o sabio Fabio Akita...
-> Em qual quer era da historia todo dia sai alguém procurando o trouxa da vez.  \
+> Em qualquer era da historia todo dia sai alguém procurando o trouxa da vez.  \
 Apenas certifique-se que o trouxa não é você.
 
 [![renandias3158](https://github-readme-stats.vercel.app/api?username=renandias3158&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
