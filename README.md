@@ -9,8 +9,8 @@
 - #### Aprendendo IA🤖
 - #### Aprendendo DataScience na raça📊
 - #### Produzindo um RPG📚
-
-`hshhshsh`
+## Como diria o sabio Fabio Akita...
+> em qual quer era da historia todo dia sai alguém procurando o trouxa da vez, apenas certifique que o trouxa não é você.
 
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
