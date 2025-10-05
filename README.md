@@ -1,4 +1,4 @@
-# Olá, meu nome é Renan Aprigio e seja bem vindo ao meu perfil! 🤓
+# Seja bem vindo ao meu perfil! 🤓
 ## Como diria o sabio Fabio Akita...
 > Em qualquer era da historia todo dia sai alguém procurando o trouxa da vez.  \
 Apenas certifique-se que o trouxa não é você.
