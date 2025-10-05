@@ -1,7 +1,7 @@
 # Olá, meu nome é Renan Aprigio e seja bem vindo ao meu perfil! 🤓
 ## Como diria o sabio Fabio Akita...
-> Em qual quer era da historia todo dia sai alguém procurando o trouxa da vez,  \
-apenas certifique que o trouxa não é você.
+> Em qual quer era da historia todo dia sai alguém procurando o trouxa da vez.  \
+Apenas certifique-se que o trouxa não é você.
 
 [![renandias3158](https://github-readme-stats.vercel.app/api?username=renandias3158&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![renandias3158](https://github-readme-stats.vercel.app/api/top-langs/?username=renandias3158&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
