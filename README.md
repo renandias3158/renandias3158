@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu perfil! 🤓
+# Seja bem vindo ao meu perfil! 🤓 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/966.png" alt="REVAVROOM" width="60" height="60" style="vertical-align:middle; margin-left:10px;"> 
 ## Como diria o sabio Fabio Akita...
 > Em qualquer era da historia todo dia sai alguém procurando o trouxa da vez.  \
 Apenas certifique-se que o trouxa não é você.
