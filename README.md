@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu perfil! 🤓 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png" alt="Corviknight" width="60" height="60" style="vertical-align:middle; margin-left:10px;"> 
+# Seja bem vindo ao meu perfil! 🤓 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823.png" alt="Corviknight" width="90" height="90" style="vertical-align:middle; margin-left:20px;"> 
 ## Como diria o sabio Fabio Akita...
 > Em qualquer era da historia todo dia sai alguém procurando o trouxa da vez.  \
 Apenas certifique-se que o trouxa não é você.
