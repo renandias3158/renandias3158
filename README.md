@@ -12,8 +12,10 @@
 - #### Aprendendo IA🤖
 - #### Aprendendo DataScience na raça📊
 - #### Produzindo um RPG📚
-
-
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=renandias3158&theme=tokyonight&row=1&column=7"/>
+</div>
 
 ![https://docs.python.org/pt-br/3/](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
