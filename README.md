@@ -6,16 +6,20 @@
 [![renandias3158](https://github-readme-stats.vercel.app/api?username=renandias3158&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 [![renandias3158](https://github-readme-stats.vercel.app/api/top-langs/?username=renandias3158&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=renandias3158&theme=tokyonight&row=1&column=7"/>
+</div>
+
+
 ### Atualmente estudando Desenvolvimento de Sistemas💻 
 - #### Entusiasta de Distros Linux🖥
 - #### Degustador de Maquinas Automotivas🚗
 - #### Aprendendo IA🤖
 - #### Aprendendo DataScience na raça📊
 - #### Produzindo um RPG📚
-<div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=renandias3158&theme=tokyonight&row=1&column=7"/>
-</div>
+
 
 ![https://docs.python.org/pt-br/3/](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
