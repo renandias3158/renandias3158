@@ -1,6 +1,6 @@
 <header>
   <p align="center">
-  <img src="./banner.png" alt="Meu Banner de Perfil" width="100%">
+  <img src="./588a44195922117.66168b374ece8.gif" alt="Meu Banner de Perfil" width="100%">
 </p>
 </header>
 
