@@ -1,26 +1,33 @@
-<header>
-  <p align="center">
-  <img src="./588a44195922117.66168b374ece8.gif" alt="Meu Banner de Perfil" width="100%" height = "10%">
+<!-- BANNER DO TOPO COM A SUA IMAGEM (LARGURA TOTAL) -->
+<p align="center">
+  <img src="./" alt="Banner de Perfil" width="100%">
 </p>
-</header>
 
+<hr>
 
-# Seja bem vindo ao meu perfil! 🤓 
+<!-- LAYOUT EM COLUNAS LADO A LADO -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Coluna 1: Espaço para seu texto/sobre mim -->
+    <td width="50%" valign="top">
+      
+      <!-- Preencha aqui com o que quiser -->
+      
+    </td>
+    <!-- Coluna 2: Espaço para gráficos ou cartões estatísticos -->
+    <td width="50%" valign="top" align="center">
+      
+      <!-- Preencha aqui com o que quiser -->
+      
+    </td>
+  </tr>
+</table>
 
+<hr>
 
-
-
-<!--
-**renandias3158/renandias3158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- SEÇÃO INFERIOR CENTRALIZADA (EX: PARA ICONES OU LINKS) -->
+<p align="center">
+  
+  <!-- Preencha aqui com o que quiser -->
+  
+</p>
