@@ -1,3 +1,10 @@
+<header>
+  <p align="center">
+  <img src="./banner.png" alt="Meu Banner de Perfil" width="100%">
+</p>
+</header>
+
+
 # Seja bem vindo ao meu perfil! 🤓 
 
 
