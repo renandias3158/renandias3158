@@ -1,7 +1,8 @@
-<!-- BANNER DO TOPO COM A SUA IMAGEM (LARGURA TOTAL) -->
-<p align="center">
-  <img src="./" alt="Banner de Perfil" width="100%">
-</p>
+<!-- BANNER DO TOPO COM A SUA IMAGEM (LARGURA TOTAL) 
+588a44195922117.66168b374ece8.gif
+
+
+
 
 <hr>
 
@@ -31,3 +32,7 @@
   <!-- Preencha aqui com o que quiser -->
   
 </p>
+<p align="center">
+  <img src="588a44195922117.66168b374ece8.gif" alt="Banner de Perfil" width="100%" height="250" style="object-fit: cover; object-position: center;">
+</p>
+-->
