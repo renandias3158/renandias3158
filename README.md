@@ -9,18 +9,8 @@
 <!-- LAYOUT EM COLUNAS LADO A LADO -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <!-- Coluna 1: Espaço para seu texto/sobre mim -->
     <td width="50%" valign="top">
-      
-      <!-- Preencha aqui com o que quiser -->
-      
-    </td>
-    <!-- Coluna 2: Espaço para gráficos ou cartões estatísticos -->
-    <td width="50%" valign="top" align="center">
-      
-      <!-- Preencha aqui com o que quiser -->
-      
-    </td>
+    Olá, Meu nome é Renan, seja bem vindo ao meu perfil!
   </tr>
 </table>
 
@@ -35,4 +25,3 @@
 <p align="center">
   <img src="588a44195922117.66168b374ece8.gif" alt="Banner de Perfil" width="100%" height="250" style="object-fit: cover; object-position: center;">
 </p>
--->
