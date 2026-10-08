@@ -18,7 +18,7 @@
 
 ### Sobre mim
 
-🎓 Estudante do ensino médio técnico em **Desenvolvimento de Sistemas**.
+🎓 Estudante do ensino médio técnico em **Desenvolvimento de Sistemas** no ***Instituto Federal de Pernambuco(Campus Jaboatão dos Guararapes)***.
 
 💻 Tenho interesse em **Engenharia de Software, automação, robótica e desenvolvimento de jogos**.
 
