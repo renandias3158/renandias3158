@@ -24,6 +24,8 @@
 
 🧠 Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de sistemas, explorando diferentes tecnologias e formas de construir projetos.
 
+📄 Acesse o meu curriculo! https://renandias3158.github.io/curriculo-renan-/
+
 ---
 
 ### Tecnologias
